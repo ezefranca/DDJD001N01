@@ -1,2 +1,7 @@
-# DDJD001N01
-Inteligência Artificial Avançada Para Jogos A Aplicações Interativas (IADE)
+# Advanced Artificial Intelligence for Games and Interactive Applications (DDJD001N01)
+
+- Some notes and small proof of concepts of AI course of PhD in Digital Games Development from IADE / IPCA.
+
+
+
+
